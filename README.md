@@ -10,7 +10,7 @@ I've got a bunch of pinned projects, but my current favorite is [DarkEarn](https
 
 I've built quite a few public repos, privately it's probably a lot more at this point.
 
-**🛠️ Tech Stack**
+**Tech Stack**
 
 Blockchain & Web3 — `Solidity` `Noir (ZK Circuits)` `Hardhat` `Ethers.js` `IPFS` `ERC standards`
 
@@ -18,7 +18,7 @@ Frontend & Mobile — `React` `Vite` `Flutter` `Dart` `TailwindCSS`
 
 Backend & Tools — `Node.js` `Express` `Railway` `Vercel` `Git`
 
-** Fun Facts**
+**Fun Facts**
 
 - I practice yoga & pilates
 - I'm a coffee enthusiast
