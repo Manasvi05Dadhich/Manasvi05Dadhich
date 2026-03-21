@@ -16,7 +16,7 @@ Frontend & Mobile — `React` `Vite` `Flutter` `Dart` `TailwindCSS`
 
 Backend & Tools — `Node.js` `Express` `Railway` `Vercel` `Git`
 
-**✨ Fun Facts**
+** Fun Facts**
 
 - I practice yoga & pilates
 - I'm a coffee enthusiast
