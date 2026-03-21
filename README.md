@@ -2,7 +2,9 @@
 
 I'm **Manasvi**, a full-stack blockchain & Flutter developer based in India.
 
-I build across the stack — from smart contracts and ZK proofs to mobile apps and polished UIs. If an idea excites me, I ship it.
+I build across the stack — from smart contracts and ZK proofs to wbsites , mobile apps and polished UIs. 
+
+If an idea excites me, I ship it.
 
 I've got a bunch of pinned projects, but my current favorite is [DarkEarn](https://github.com/Manasvi05Dadhich/darkearn) — a privacy-first bounty marketplace that mathematically hides your earnings and identity on-chain.
 
