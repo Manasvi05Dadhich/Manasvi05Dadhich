@@ -19,16 +19,8 @@ I build across the stack — from smart contracts and ZK proofs to mobile apps a
 
 ---
 
-### 🚀 Featured Project
-
-🔒 **[DarkEarn](https://github.com/manasvi)** — A privacy-first Web3 bounty marketplace.
-Mathematically hides earnings, wallet addresses, and work history using ZK proofs, ERC-5564 stealth addresses, ENS identity separation, and on-chain encrypted storage.
-
-
-
 ### ✨ Fun Facts
 
-- 🧘 I practice yoga & pilates — balance in life and in code
-- 🍜 Loves trying new food from different cuisines
-- 📺 Anime enthusiast — always has a watch list ready
-- ⛓️ Believes privacy is a human right, not a feature
+- I practice yoga & pilates
+- Im a coffee enthusiast
+- Im a video editor and motion designer too
