@@ -1,6 +1,6 @@
-# Hey there! 👋
+** Hey there! 👋**
 
-I'm **Manasvi**, a full-stack blockchain & Flutter developer based in **India** 🇮🇳
+I'm **Manasvi**, a full-stack blockchain & Flutter developer based in **India** 
 
 I build across the stack — from smart contracts and ZK proofs to mobile apps and polished UIs. If an idea excites me, I ship it.
 
