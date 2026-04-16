@@ -16,7 +16,7 @@ Blockchain & Web3 — `Solidity` `Noir (ZK Circuits)` `Hardhat` `Ethers.js` `IPF
 
 Frontend & Mobile — `React` `Vite` `Flutter` `Dart` `TailwindCSS`
 
-Backend & Tools — `Node.js` `Express` `Railway` `Vercel` `Git`
+Backend & Tools — `Node.js` `Express` `Railway` `Vercel` `Git` `Docker` `Redis`
 
 **Fun Facts**
 
