@@ -1,4 +1,4 @@
-**Hey there!👋🍍**
+**Hey there🍍**
 
 I'm **Manasvi**, a full-stack web , mobile and blockchain developer based in India.
 
