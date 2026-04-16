@@ -1,4 +1,4 @@
-**Hey there!👋**
+**Hey there!👋🍍**
 
 I'm **Manasvi**, a full-stack web , mobile and blockchain developer based in India.
 
@@ -14,7 +14,7 @@ I've built quite a few public repos, privately it's probably a lot more at this 
 
 Blockchain & Web3 — `Solidity` `Noir (ZK Circuits)` `Hardhat` `Ethers.js` `IPFS` `ERC standards`
 
-Frontend & Mobile — `React` `Vite` `Flutter` `Dart` `TailwindCSS`
+Frontend & Mobile — `React` `Vite` `Flutter` `Dart` `TailwindCSS` `Javascript` `Typescript` `HTML`
 
 Backend & Tools — `Node.js` `Express` `Railway` `Vercel` `Git` `Docker` `Redis`
 
