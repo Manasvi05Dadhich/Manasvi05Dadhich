@@ -23,3 +23,4 @@ Backend & Tools — `Node.js` `Express` `Railway` `Vercel` `Git` `Docker` `Redis
 - I practice yoga & pilates
 - I'm a coffee enthusiast
 - I'm a video editor and motion designer too
+  looking for internships:)
